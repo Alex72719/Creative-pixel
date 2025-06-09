@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\servicios\\servicios.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\servicios\\servicios.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\servicios\\servicios.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\servicios\\servicios.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\menu\\menu.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\menu\\menu.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\menu\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\menu\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\inicio\\inicio.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\inicio\\inicio.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.ts",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.ts",
+              "RelativeToolTip": "src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-07T00:00:07.814Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-07T00:08:01.025Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AgIAAJsAAAAAKjMzMzMbwEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T00:26:24.9Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "servicios.css",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.css",
+              "RelativeDocumentMoniker": "src\\app\\servicios\\servicios.css",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.css",
+              "RelativeToolTip": "src\\app\\servicios\\servicios.css",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T00:50:12.714Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "servicios.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\servicios\\servicios.spec.ts",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.spec.ts",
+              "RelativeToolTip": "src\\app\\servicios\\servicios.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-07T14:59:05.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "inicio.ts",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\inicio\\inicio.ts",
+              "RelativeDocumentMoniker": "src\\app\\inicio\\inicio.ts",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\inicio\\inicio.ts",
+              "RelativeToolTip": "src\\app\\inicio\\inicio.ts",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-07T14:27:45.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "menu.ts",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\menu\\menu.ts",
+              "RelativeDocumentMoniker": "src\\app\\menu\\menu.ts",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\menu\\menu.ts",
+              "RelativeToolTip": "src\\app\\menu\\menu.ts",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-07T14:25:19.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "menu.html",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\menu\\menu.html",
+              "RelativeDocumentMoniker": "src\\app\\menu\\menu.html",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\menu\\menu.html",
+              "RelativeToolTip": "src\\app\\menu\\menu.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-07T14:23:07.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "servicios.html",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.html",
+              "RelativeDocumentMoniker": "src\\app\\servicios\\servicios.html",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.html",
+              "RelativeToolTip": "src\\app\\servicios\\servicios.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-07T00:48:59.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "src\\app\\app.html",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.html",
+              "RelativeToolTip": "src\\app\\app.html",
+              "ViewState": "AgIAACwAAAAAMzMzMzMbwAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-06T23:03:25.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "servicios.ts",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.ts",
+              "RelativeDocumentMoniker": "src\\app\\servicios\\servicios.ts",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\servicios\\servicios.ts",
+              "RelativeToolTip": "src\\app\\servicios\\servicios.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-06T23:10:42.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-06T23:00:20.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.spec.ts",
+              "ToolTip": "C:\\Users\\Iran Amiel\\Documents\\Desarrollo web 1\\CreativePixel\\src\\app\\app.spec.ts",
+              "RelativeToolTip": "src\\app\\app.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-07T03:54:16.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
